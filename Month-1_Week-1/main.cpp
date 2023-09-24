@@ -2,8 +2,11 @@
 
 using namespace std;
 
-int main()
-{
-    cout << "Hello world";
-    return 0;
-}
+int main() {
+
+    const int *x;
+
+    
+
+    cout << "X is: " << x << endl;
+} 
