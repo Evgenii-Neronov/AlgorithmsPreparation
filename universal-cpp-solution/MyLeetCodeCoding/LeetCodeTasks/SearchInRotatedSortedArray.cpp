@@ -1,4 +1,4 @@
-#include "SearchInRotatedSortedArray.hpp"
+#include "SearchInRotatedSortedArray.h"
 
 using namespace std;
 
