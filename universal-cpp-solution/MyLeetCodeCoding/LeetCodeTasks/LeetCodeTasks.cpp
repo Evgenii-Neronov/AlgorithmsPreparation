@@ -8,8 +8,9 @@ using namespace std;
 
 int main()
 {
-    std::vector<int> nums = { 3, 5, 1 };
+    std::vector<int> nums = { 10,1,10,10,10 };
 
+    /*
     SearchInRotatedSortedArray s;
 
     std::cout << "[SearchInRotatedSortedArray]" << endl;
@@ -17,6 +18,7 @@ int main()
     int res = s.search(nums, 5);
 
     std::cout << "-> result: " << res << endl << endl;
+    */
 
     FindMinimumInRotatedSortedArray s1;
 
