@@ -130,10 +130,12 @@
     <ClCompile Include="FindMinimumInRotatedSortedArray.cpp" />
     <ClCompile Include="LeetCodeTasks.cpp" />
     <ClCompile Include="SearchInRotatedSortedArray.cpp" />
+    <ClCompile Include="SearchInRotatedSortedArrayII.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FindMinimumInRotatedSortedArray.h" />
     <ClInclude Include="SearchInRotatedSortedArray.h" />
+    <ClInclude Include="SearchInRotatedSortedArrayII.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

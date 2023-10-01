@@ -24,12 +24,18 @@
     <ClCompile Include="FindMinimumInRotatedSortedArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SearchInRotatedSortedArrayII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SearchInRotatedSortedArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="FindMinimumInRotatedSortedArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInRotatedSortedArrayII.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
